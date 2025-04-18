@@ -1,4 +1,4 @@
-n = 10
+n: int= 10
 l = []
 for i in range(n):
     fila = [" "] * n
